@@ -2,7 +2,7 @@ package co.micol.manager;
 
 import co.micol.manager.menu.LoginMenu;
 
-public class MainApp {
+public class MainApp { //si프로젝트 mvc패턴
 
 	public static void main(String[] args) {
 		LoginMenu menu = new LoginMenu();

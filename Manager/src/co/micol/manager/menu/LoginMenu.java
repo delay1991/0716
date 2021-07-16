@@ -64,5 +64,7 @@ public class LoginMenu {
 				user.run(vo);
 			}
 		}
+		sc.close(); //모두끝!!!!!!!!!!!!
 	}
+	
 }
