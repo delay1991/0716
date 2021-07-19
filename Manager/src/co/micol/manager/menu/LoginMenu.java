@@ -17,9 +17,9 @@ public class LoginMenu {
 	
 	
 	private void loginTitle() {
-		System.out.println("--------------------------------");
-		System.out.println("---------|  로  그  인  |---------");
-		System.out.println("--------------------------------");
+		System.out.println("──────────────────────────────────");
+		System.out.println("──────────|  로  그  인  |──────────");
+		System.out.println("──────────────────────────────────");
 	}
 
 	private MemberVO loginCheck() {
